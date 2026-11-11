@@ -1,24 +1,17 @@
-SARAVANAKUMAR I — PORTFOLIO WEBSITE
+SARAVANAKUMAR I — STYLISH PORTFOLIO
 
-Files:
-- index.html: website content
-- style.css: visual design and responsive layout
-- script.js: mobile navigation and current year
-- assets/Saravanakumar_Resume.pdf: downloadable resume
+Preview: Open index.html in a browser.
+Files: index.html, style.css, script.js, assets/Saravanakumar_Resume.pdf.
 
-PREVIEW:
-Open index.html in Chrome, Edge, or Firefox.
+UPDATE YOUR EXISTING GITHUB REPOSITORY:
+1. Extract this ZIP on your computer.
+2. In your existing GitHub repository, open Add file > Upload files.
+3. Upload index.html, style.css, script.js and the assets folder.
+4. If GitHub asks whether to replace existing files, confirm/commit the changes.
+5. Keep GitHub Pages enabled (Settings > Pages, branch main, folder /(root)).
+6. Wait for the Pages deployment to finish, then refresh your portfolio URL.
 
-PUBLISH FREE WITH GITHUB PAGES:
-1. Sign in to GitHub and create a PUBLIC repository named saravanakumar-portfolio (or your preferred name).
-2. Upload index.html, style.css, script.js, README.txt and the assets folder to the repository root.
-3. Open repository Settings > Pages.
-4. Under Build and deployment, choose Deploy from a branch.
-5. Select branch main and folder /(root), then Save.
-6. Wait for deployment. GitHub will show the public website address in the Pages section.
-
-IMPORTANT BEFORE PUBLISHING:
-- Review the email address, phone number, LinkedIn URL and resume PDF.
-- The fire-detection project is described accurately as laptop camera + ESP32 DevKit V1 (not ESP32-CAM).
-- Keep only skills you can explain in an interview.
-- A public portfolio makes the resume and contact details visible to anyone. Remove any detail you do not want public.
+NOTES:
+- The fire detection project is described as laptop camera + ESP32 DevKit V1, based on your clarification in chat. The uploaded resume currently says ESP32-CAM; update that resume wording before using the PDF publicly if that is incorrect.
+- The resume contains personal contact details. This is a public website; check that you are comfortable publishing them.
+- Check your email address and LinkedIn URL before sharing the site.
